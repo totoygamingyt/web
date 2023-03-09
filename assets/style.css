@@ -1,6 +1,6 @@
 html {
   scroll-behavior: smooth;
-
+  zoom: calc(150%);
 }
 
 /* Reset Styles */
@@ -214,7 +214,7 @@ header:hover {
   .fa {
     color: #E90606;
     margin: 0 3px;
-    font-size: 10px;
+    font-size: 17px;
     animation: pound .35s infinite alternate;
     -webkit-animation: pound .35s infinite alternate;
   }
