@@ -207,3 +207,27 @@ header:hover {
     opacity: calc(60%);
     font-size: 13px;
   }
+
+
+
+  /* Made with Love */
+  .fa {
+    color: #E90606;
+    margin: 0 3px;
+    font-size: 10px;
+    animation: pound .35s infinite alternate;
+    -webkit-animation: pound .35s infinite alternate;
+  }
+  
+  @-webkit-keyframes pound {
+    to {
+      transform: scale(1.1);
+    }
+  }
+  
+  @keyframes pound {
+    to {
+      transform: scale(1.1);
+    }
+  }
+  
