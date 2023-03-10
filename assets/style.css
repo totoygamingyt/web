@@ -118,11 +118,16 @@ h1, h2, h3 {
 }
 
 p {
+    
     margin-bottom: 20px;
     line-height: 1.5;
     color: #f2f2f2;
     text-shadow: 1px 1px 3px black;
     
+}
+
+.email {
+  color: aqua;
 }
 
 li, i, .roblox {
