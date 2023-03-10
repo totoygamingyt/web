@@ -36,11 +36,11 @@ body::before {
     width: 100%;
     height: 100%;
     z-index: -1;
-    background-image: url('/assets/images/TotoyGamingYT.png');
+    background-image: url('/assets/images/TotoyGamingYT2023.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
-    filter: blur(15px);
+    filter: blur(30px);
     opacity: 1;
   }
 
