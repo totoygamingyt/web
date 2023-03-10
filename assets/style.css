@@ -125,7 +125,7 @@ p {
     
 }
 
-li, i {
+li, i, .roblox {
     text-shadow: 1px 1px 3px black;
 }
 
@@ -197,8 +197,9 @@ header:hover {
     transition: color 0.3s ease;
   }
   
-  .social-icons a:hover {
+  .social-icons a:hover, .roblox:hover {
     color: cyan;
+    
   }
   
 
@@ -230,3 +231,12 @@ header:hover {
     }
   }
   
+
+
+
+
+
+
+  .roblox {
+    font-size: 30px;
+}
