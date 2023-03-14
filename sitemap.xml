@@ -2,10 +2,10 @@
 <url>
 <loc>https://totoygamingyt.fun/</loc>
 <changefreq>daily</changefreq>
-<priority>1.0</priority>
-<lastmod>2023-03-09</lastmod>
+<priority>1</priority>
+<lastmod>2023-03-08</lastmod>
 <image:image>
-<image:loc>/assets/images/TotoyGamingYT2023.png</image:loc>
+<image:loc>https://raw.githubusercontent.com/totoygamingyt/icon/main/assets/YouTubeV2.png</image:loc>
 </image:image>
 </url>
 </urlset>
